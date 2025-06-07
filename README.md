@@ -49,14 +49,14 @@ Tutoring Impact Dashboard:
 ## Walkthrough
 <p align="center">
 Analyzed Test Scores by Districts, Cities & States: <br/> 
-<img width="1406" alt="Screenshot 2025-06-06 at 11 52 35 AM" src="https://github.com/user-attachments/assets/b8877415-e6e9-4152-af35-bbebb2d0f9ac" />
+<img width="1716" alt="Screenshot 2025-06-07 at 10 59 37 AM" src="https://github.com/user-attachments/assets/89aa50d7-6c7e-4d8c-abfa-fec051cc89be" />
 <p align="center">
 Analyzed the Impact of Tutoring on both Math & Reading Scores: 
-<img width="1399" alt="Screenshot 2025-06-06 at 11 52 48 AM" src="https://github.com/user-attachments/assets/57455f0c-6103-4c3d-a620-1e42f6b0791b" />
+<img width="1728" alt="Screenshot 2025-06-07 at 11 00 00 AM" src="https://github.com/user-attachments/assets/63bbfc7a-afc9-4375-892f-659958050ce3" />
 <p align="center">
 Analyzed the Trend Performance Between Grade Level:
-<img width="1402" alt="Screenshot 2025-06-06 at 11 52 55 AM" src="https://github.com/user-attachments/assets/bff0d7fc-5429-44e6-aafb-e1dd6a5b2ebe" />
+<img width="1721" alt="Screenshot 2025-06-07 at 11 00 08 AM" src="https://github.com/user-attachments/assets/30013def-9f98-4f37-8df0-8c84c37f0522" />
 <p align="center">
 Analyzed the Annual Performance of Test Scores Across Grade Levels:
-<img width="1403" alt="Screenshot 2025-06-06 at 11 53 02 AM" src="https://github.com/user-attachments/assets/b0952771-effe-4c01-b222-cdb335fda2be" />
+<img width="1723" alt="Screenshot 2025-06-07 at 11 00 16 AM" src="https://github.com/user-attachments/assets/06c3d4fa-f42d-4327-90bb-d00565760d9f" />
 
