@@ -48,6 +48,9 @@ Tutoring Impact Dashboard:
 
 ## Walkthrough
 <p align="center">
+Created a Relation Between the Two Tables:
+<img width="1728" alt="Screenshot 2025-06-07 at 11 09 08 AM" src="https://github.com/user-attachments/assets/938260e5-48a7-4f12-ba51-51fd93e5ae05" />
+<p align="center">
 Analyzed Test Scores by Districts, Cities & States: <br/> 
 <img width="1716" alt="Screenshot 2025-06-07 at 10 59 37 AM" src="https://github.com/user-attachments/assets/89aa50d7-6c7e-4d8c-abfa-fec051cc89be" />
 <p align="center">
@@ -59,4 +62,15 @@ Analyzed the Trend Performance Between Grade Level:
 <p align="center">
 Analyzed the Annual Performance of Test Scores Across Grade Levels:
 <img width="1723" alt="Screenshot 2025-06-07 at 11 00 16 AM" src="https://github.com/user-attachments/assets/06c3d4fa-f42d-4327-90bb-d00565760d9f" />
-
+<p align="center">
+Analysis of How Interactive the Report Is:
+<img width="1722" alt="Screenshot 2025-06-07 at 11 17 17 AM" src="https://github.com/user-attachments/assets/dbeae44a-2d1a-4e6c-aa3f-7f30ae84b379" />
+<p align="center">
+Determined Top 3 Reading Tutors:
+<img width="1723" alt="Screenshot 2025-06-07 at 11 37 06 AM" src="https://github.com/user-attachments/assets/ef0c87a0-495c-4537-ae68-f8f41be9e1eb" />
+<p align="center">
+Analyzed the Math Score Difference By Grade and School Year:
+<img width="1652" alt="Screenshot 2025-06-07 at 11 23 04 AM" src="https://github.com/user-attachments/assets/893da676-e42e-4917-bba7-475e9475b2bc" />
+<p align="center">
+Analyzed which School District has Most Students in Ohio:
+<img width="1655" alt="Screenshot 2025-06-07 at 11 28 36 AM" src="https://github.com/user-attachments/assets/77e7bb8b-1da0-4a1c-8997-921dacc80b6a" />
