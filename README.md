@@ -24,20 +24,17 @@ Help educators and administrators identify where tutoring is most effective to i
 • Dashboard storytelling 
 • Performance trend analysis
 
-## Status
-✅ Completed and live: https://umainesystem-my.sharepoint.com/:u:/g/personal/sarah_ntifu_maine_edu/Ef5R0LAzeeBMiijRkT-2W8EBqYJyDZXdBjWZNmdkAPPk_g?e=sdGEAb
-
+## Walkthrough
+<p align="center">
+Analyzed Test Scores by Districts, Cities & States: <br/> 
 <img width="1406" alt="Screenshot 2025-06-06 at 11 52 35 AM" src="https://github.com/user-attachments/assets/b8877415-e6e9-4152-af35-bbebb2d0f9ac" />
-
+<p align="center">
+Analyzed the Impact of Tutoring on both Math & Reading Scores: 
 <img width="1399" alt="Screenshot 2025-06-06 at 11 52 48 AM" src="https://github.com/user-attachments/assets/57455f0c-6103-4c3d-a620-1e42f6b0791b" />
-
+<p align="center">
+Analyzed the Trend Performance Between Grade Level:
 <img width="1402" alt="Screenshot 2025-06-06 at 11 52 55 AM" src="https://github.com/user-attachments/assets/bff0d7fc-5429-44e6-aafb-e1dd6a5b2ebe" />
-
+<p align="center">
+Analyzed the Annual Performance of Test Scores Across Grade Levels:
 <img width="1403" alt="Screenshot 2025-06-06 at 11 53 02 AM" src="https://github.com/user-attachments/assets/b0952771-effe-4c01-b222-cdb335fda2be" />
-
-<img width="1044" alt="Screenshot 2025-06-06 at 12 33 43 PM" src="https://github.com/user-attachments/assets/edf0b073-1a62-4066-93a9-14c518be1e91" />
-
-<img width="1068" alt="Screenshot 2025-06-06 at 12 33 36 PM" src="https://github.com/user-attachments/assets/d3a1ba69-5411-4ba4-b214-b946b1d0bb78" />
-
-<img width="1044" alt="Screenshot 2025-06-06 at 12 33 43 PM" src="https://github.com/user-attachments/assets/31e2abce-2504-4193-8a9d-548208ba5f66" />
 
